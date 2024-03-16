@@ -4,9 +4,9 @@
 Texto descriptivo donde **para escribir en negrita**
 
 >Bloque de texto o comentario
--Item uno
--Item dos
--Item tres
+-Item uno:Permanecer siempre en contacto
+-Item dos: Realizar las actividades pendientes
+-Item tres: Verificar las actividades diarias
 `comillas invertidas para código`
 
 ```
