@@ -24,4 +24,13 @@
         h3{
             color: #23a8dc;
         }
+        td{
+            color: #f54e4e;
+        }
+        th{
+            color: #695b5b;
+        }
+        img floact{
+            float: center;
+        }
 
