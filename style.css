@@ -15,11 +15,15 @@
             font: weight 400;
         }
         .News-content{
-            background-color: #348888;
+            background-color: #f6f9f9;
             
         }
         #News-content{
-            color: #22BABB;
+            color: #101111;
+            display: flex;
+            flex-direction: column-reverse;
+            justify-content: center;
+
         }
         .itálica{
             font-style: helvetica;
@@ -33,6 +37,7 @@
             padding: 10px;
             margin-top: 10px;
             margin-bottom: 20px;
+            justify-content: center;
         }
 
         h2{
