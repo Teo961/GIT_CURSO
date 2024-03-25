@@ -58,5 +58,16 @@
             #main-photo{
                 border: 10px red;
             }
+            @media only screen and (max-width: 600px) {
+                body {
+                    background-color: lightblue;
+                }
+                
+            }
+            .News-content{
+                border: 1px solid #f6f9f9;
+                margin: 10px;
+                
+            }
             
 
