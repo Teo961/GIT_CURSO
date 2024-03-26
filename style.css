@@ -1,13 +1,13 @@
 
         *{
-            margin: 10px;
-            padding: 10px;
+            margin: 5px;
+            padding: 5px;
             font-family: 'roboto',sans-serif, serif;
         }
         a{
             background-color: aqua;
-            margin: 10px;
-            padding: 10px;
+            margin: 8px5px;
+            padding: 5px;
             border-radius: 5px;
 }        
         p{
@@ -32,10 +32,10 @@
             background-color: #FFEC5C ;
             font-family: 'helvetica', Times, serif;
             text-align: center;
-            border: solid 10px #F24405;
-            padding: 10px;
-            margin-top: 10px;
-            margin-bottom: 10px;
+            border: solid 5px #F24405;
+            padding: 5px;
+            margin-top: 5px;
+            margin-bottom: 5px;
             justify-content: center;
         }
 
@@ -55,7 +55,7 @@
             float: center;
         }        
             #main-photo{
-                border: 10px red;
+                border: 5px red;
             }
             @media only screen and (max-width: 600px) {
                 body {
@@ -64,8 +64,8 @@
                 
             }
             .News-content{
-                border: 10px solid #f6f9f9;
-                margin: 10px;
+                border: 5px solid #f6f9f9;
+                margin: 5px;
                 
             }
             
