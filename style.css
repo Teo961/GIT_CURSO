@@ -68,5 +68,11 @@
                 margin: 5px;
                 
             }
+            .text{
+                background-color: #f6f9f9;
+                font-size: 20px;
+                font-weight: 400;
+                text-align: justify;
+            }
             
 
